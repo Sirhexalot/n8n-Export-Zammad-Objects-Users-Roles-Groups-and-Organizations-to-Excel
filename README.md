@@ -1,4 +1,4 @@
-# Export Zammad Objects to Excel
+# n8n Workflow: Export Zammad Objects to Excel
 
 This n8n workflow allows you to export data from Zammad, including **Users**, **Roles**, **Groups**, and **Organizations**, into individual Excel files. It provides a streamlined way to manage, analyze, and share your data.
 
