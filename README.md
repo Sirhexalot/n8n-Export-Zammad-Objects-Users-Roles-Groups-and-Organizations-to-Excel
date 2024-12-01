@@ -19,9 +19,6 @@ This n8n workflow allows you to export data from Zammad, including **Users**, **
 ## Contribution
 We welcome contributions to improve this workflow. If you encounter bugs or have ideas for enhancements, please create an issue or submit a pull request.
 
-## Issues and Suggestions
-For any issues or suggestions, please use the [GitHub Issues page](https://github.com/Sirhexalot/n8n-Export-Zammad-Objects-Users-Roles-Groups-and-Organizations-to-Excel).
-
 ---
 
 **Note**: Ensure you have the necessary API permissions in your Zammad instance to access the relevant data.
